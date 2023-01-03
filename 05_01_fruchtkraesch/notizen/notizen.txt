@@ -1,0 +1,18 @@
+TODO:
+in der infografik suchbaum suchtiefe ergänzen.
+
+
+berechneFolgezustaende vs. folgezusaende
+
+einZug bei folgezustaende im text eingetragen?
+
+wie nennen wir zugKoord in der KI?!?
+
+
+zugDaten 
+zugObjekt
+zugParameter
+
+
+
+https://de.wikipedia.org/wiki/Spiel_mit_perfekter_Information
